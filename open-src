@@ -14,7 +14,7 @@ local Config = {
     ImageLogo = "", -- Paste your decal ID here. Leave blank for letter.
     LoadTime = 3,
 
-    ScriptToLoad = "https://raw.githubusercontent.com/adaptyzz/adoptme/refs/heads/main/main_gui",
+    ScriptToLoad = "https://raw.githubusercontent.com/Crakty/Premium/refs/heads/main/release",
 
     -- Loading Messages & Tips displayed randomly
     Messages = {
